@@ -12,7 +12,7 @@ The StopWatch project is designed to help users learn and understand the lifecyc
 
 ## Screenshots
 
-![StopWatch Screenshot](./Capture d’écran 2024-06-10 171606.png)
+![StopWatch Screenshot](./Capture%20d’écran%202024-06-10%20171606.png)
 
 ## Getting Started
 
