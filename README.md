@@ -25,8 +25,8 @@ The StopWatch project is designed to help users learn and understand the lifecyc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/StopWatch.git
-    ```
+
+https://github.com/zetatiabdelhakim/StopWatch.git    ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an emulator or a physical device.
 
